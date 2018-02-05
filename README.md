@@ -1,4 +1,4 @@
-#**PataChat**
+# **PataChat**
 ---
-##*,,Lehká parodie ICQ. Plné bugů. Celkem vtipné."*
+## *,,Lehká parodie ICQ. Plné bugů. Celkem vtipné."*
 ---
